@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ma2_Widget_Tabs_Free",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Ma2 WidgetTabs Free for Magento is a widget module from MagenMarket.com which helps you create tabs widget instances to put anywhere in your Magento store. Tab's content can be text or any widget.",
+    "authors": [
+    {
+        "name": "Magenmarket.com",
+        "email": "trungdt@omegatheme.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
