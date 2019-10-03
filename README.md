@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Ma2 WidgetTabs Free for Magento is a widget module from MagenMarket.com which helps you create tabs widget instances to put anywhere in your Magento store. Tab's content can be text or any widget.
